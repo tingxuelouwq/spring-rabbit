@@ -1,0 +1,34 @@
+[INFO ][20180109 10:55:12,146][AbstractApplicationContext:589] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@cb51256: startup date [Tue Jan 09 10:55:12 CST 2018]; root of context hierarchy
+[INFO ][20180109 10:55:12,265][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-context.xml]
+[INFO ][20180109 10:55:12,526][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-rabbit-sync.xml]
+[INFO ][20180109 10:55:13,604][AbstractConnectionFactory:392] Created new connection: cachingConnectionFactory#48b67364:0/SimpleConnection@74960bfa [delegate=amqp://kevin@127.0.0.1:5672/, localPort= 15261]
+[INFO ][20180109 10:55:31,568][AbstractApplicationContext:589] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@43556938: startup date [Tue Jan 09 10:55:31 CST 2018]; root of context hierarchy
+[INFO ][20180109 10:55:31,621][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-context.xml]
+[INFO ][20180109 10:55:31,817][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-rabbit-sync.xml]
+[INFO ][20180109 10:55:32,431][AbstractConnectionFactory:392] Created new connection: cachingConnectionFactory#29176cc1:0/SimpleConnection@72d1ad2e [delegate=amqp://kevin@127.0.0.1:5672/, localPort= 15284]
+[INFO ][20180109 10:56:01,836][AbstractApplicationContext:589] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@cb51256: startup date [Tue Jan 09 10:56:01 CST 2018]; root of context hierarchy
+[INFO ][20180109 10:56:01,905][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-context.xml]
+[INFO ][20180109 10:56:02,121][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-rabbit-sync.xml]
+[INFO ][20180109 10:56:02,818][AbstractConnectionFactory:392] Created new connection: cachingConnectionFactory#48b67364:0/SimpleConnection@74960bfa [delegate=amqp://kevin@127.0.0.1:5672/, localPort= 15314]
+[INFO ][20180109 10:57:24,139][AbstractApplicationContext:589] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@cb51256: startup date [Tue Jan 09 10:57:24 CST 2018]; root of context hierarchy
+[INFO ][20180109 10:57:24,210][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-context.xml]
+[INFO ][20180109 10:57:24,499][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-rabbit-sync.xml]
+[INFO ][20180109 11:00:10,418][AbstractConnectionFactory:392] Created new connection: cachingConnectionFactory#48b67364:0/SimpleConnection@22ffa91a [delegate=amqp://kevin@127.0.0.1:5672/, localPort= 15410]
+[INFO ][20180109 11:02:02,716][AbstractApplicationContext:589] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@43556938: startup date [Tue Jan 09 11:02:02 CST 2018]; root of context hierarchy
+[INFO ][20180109 11:02:02,772][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-context.xml]
+[INFO ][20180109 11:02:02,943][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-rabbit-sync.xml]
+[INFO ][20180109 11:02:03,595][AbstractConnectionFactory:392] Created new connection: cachingConnectionFactory#222114ba:0/SimpleConnection@12468a38 [delegate=amqp://kevin@127.0.0.1:5672/, localPort= 15482]
+[INFO ][20180109 11:02:11,211][AbstractApplicationContext:589] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@43556938: startup date [Tue Jan 09 11:02:11 CST 2018]; root of context hierarchy
+[INFO ][20180109 11:02:11,260][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-context.xml]
+[INFO ][20180109 11:02:11,433][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-rabbit-sync.xml]
+[INFO ][20180109 11:02:11,975][AbstractConnectionFactory:392] Created new connection: cachingConnectionFactory#222114ba:0/SimpleConnection@4f18837a [delegate=amqp://kevin@127.0.0.1:5672/, localPort= 15491]
+[ERROR][20180109 11:02:12,002][CachingConnectionFactory$DefaultChannelCloseLogger:1215] Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=404, reply-text=NOT_FOUND - no queue 'spring.queue.sync' in vhost '/', class-id=60, method-id=70)
+[INFO ][20180109 11:04:07,373][AbstractApplicationContext:589] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@cb51256: startup date [Tue Jan 09 11:04:07 CST 2018]; root of context hierarchy
+[INFO ][20180109 11:04:07,441][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-context.xml]
+[INFO ][20180109 11:04:07,663][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-rabbit-sync.xml]
+[INFO ][20180109 11:04:08,340][AbstractConnectionFactory:392] Created new connection: cachingConnectionFactory#13bc8645:0/SimpleConnection@2796aeae [delegate=amqp://kevin@127.0.0.1:5672/, localPort= 15567]
+[ERROR][20180109 11:04:08,368][CachingConnectionFactory$DefaultChannelCloseLogger:1215] Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=404, reply-text=NOT_FOUND - no queue 'spring.queue.sync' in vhost '/', class-id=60, method-id=70)
+[INFO ][20180109 14:06:57,839][AbstractApplicationContext:589] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@cb51256: startup date [Tue Jan 09 14:06:57 CST 2018]; root of context hierarchy
+[INFO ][20180109 14:06:57,920][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-context.xml]
+[INFO ][20180109 14:06:58,194][XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/spring-rabbit-sync.xml]
+[INFO ][20180109 14:06:58,909][AbstractConnectionFactory:392] Created new connection: cachingConnectionFactory#48b67364:0/SimpleConnection@7efaad5a [delegate=amqp://kevin@127.0.0.1:5672/, localPort= 18414]
