@@ -2,8 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6982999b-1dec-42cb-a5d7-f36407bdb5f7" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__com_rabbitmq_amqp_client_4_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__com_rabbitmq_http_client_1_3_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_aop_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_beans_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_context_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_core_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_expression_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_test_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_tx_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/libraries/Maven__org_springframework_spring_web_5_0_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/src/main/java/com/kevin/spring/rabbitmq/receiver/Receive.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/src/main/java/com/kevin/spring/rabbitmq/receiver/ReceiveMsgHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/src/main/java/com/kevin/spring/rabbitmq/sender/Send.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/src/main/resources/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/src/main/resources/spring/spring-rabbitmq-receive.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../async-xml/src/main/resources/spring/spring-rabbitmq-send.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../sync-annotation/src/main/java/com/kevin/spring/rabbitmq/config/RabbitConfig.java" />
+      <change beforePath="$PROJECT_DIR$/../sync-annotation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sync-annotation/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../sync-annotation/src/main/java/com/kevin/spring/rabbit/RabbitConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../sync-annotation/src/main/resources/rabbitmq.properties" afterPath="$PROJECT_DIR$/../async-xml/src/main/resources/rabbitmq.properties" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-rabbit-sync.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-rabbit-sync.xml" />
+      <change beforePath="$PROJECT_DIR$/logs/rabbitmq.log" afterPath="$PROJECT_DIR$/logs/rabbitmq.log" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbit/consumer/Consumer.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/consumer/Consumer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbit/producer/Producer.java" afterPath="$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/producer/Producer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/rabbitmq.properties" afterPath="$PROJECT_DIR$/src/main/resources/rabbitmq.properties" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-context.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-rabbit-sync.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-rabbit.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/spring/rabbit/consumer/Consumer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kevin/spring/rabbit/producer/Producer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/rabbitmq.properties" afterPath="$PROJECT_DIR$/target/classes/rabbitmq.properties" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-context.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-rabbit-sync.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,22 +69,62 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbit/consumer/Consumer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/consumer/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="18" column="95" lean-forward="false" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
+            <state relative-caret-position="1972">
               <caret line="116" column="12" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="116" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-rabbit.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-rabbit.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="34" column="11" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="34" selection-end-column="11" />
+              <folding>
+                <element signature="e#745#761#0" expanded="true" />
+                <element signature="e#800#816#0" expanded="true" />
+                <element signature="e#859#879#0" expanded="true" />
+                <element signature="e#922#942#0" expanded="true" />
+                <element signature="e#988#1011#0" expanded="true" />
+                <element signature="e#1062#1090#0" expanded="true" />
+                <element signature="e#1450#1467#0" expanded="true" />
+                <element signature="e#1717#1734#0" expanded="true" />
+                <element signature="e#1779#1801#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rabbitmq.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/rabbitmq.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/producer/Producer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="95" lean-forward="false" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
               <folding />
             </state>
           </provider>
@@ -52,6 +144,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-rabbit-sync.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/rabbitmq.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-rabbit.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbit/consumer/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbit/producer/Producer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/producer/Producer.java" />
       </list>
     </option>
   </component>
@@ -83,10 +181,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1272" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="x" value="1913" />
+    <option name="width" value="654" />
+    <option name="height" value="991" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -299,6 +396,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -335,7 +434,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbit" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sync-xml" type="b2602c69:ProjectViewProjectNode" />
@@ -343,7 +442,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbit" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
               <item name="consumer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -352,7 +451,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbit" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
               <item name="producer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -374,10 +473,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,11 +508,11 @@
     <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.kevin.spring.rabbit.consumer.*" />
+          <option name="PATTERN" value="com.kevin.spring.rabbitmq.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.kevin.spring.rabbit.consumer.Consumer" />
+      <option name="MAIN_CLASS_NAME" value="com.kevin.spring.rabbitmq.consumer.Consumer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -430,11 +527,11 @@
     <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.kevin.spring.rabbit.producer.*" />
+          <option name="PATTERN" value="com.kevin.spring.rabbitmq.producer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.kevin.spring.rabbit.producer.Producer" />
+      <option name="MAIN_CLASS_NAME" value="com.kevin.spring.rabbitmq.producer.Producer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -611,46 +708,50 @@
       <option name="presentableId" value="Default" />
       <updated>1515466318081</updated>
       <workItem from="1515466319511" duration="4401000" />
+      <workItem from="1515545994971" duration="10000" />
+      <workItem from="1515546035402" duration="2867000" />
+      <workItem from="1515576533182" duration="2492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4401000" />
+    <option name="totallyTimeSpent" value="9770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3114887" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39904988" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26213592" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -662,12 +763,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbit/producer/Producer.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.0.RELEASE/spring-rabbit-2.0.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java</url>
           <line>2218</line>
@@ -692,19 +787,92 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/4.2.1/amqp-client-4.2.1-sources.jar!/com/rabbitmq/client/AMQP.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/consumer/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1226">
-          <caret line="754" column="25" lean-forward="false" selection-start-line="754" selection-start-column="25" selection-end-line="754" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbit/producer/Producer.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="1972">
+          <caret line="116" column="12" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="116" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-rabbit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#745#761#0" expanded="true" />
+            <element signature="e#800#816#0" expanded="true" />
+            <element signature="e#859#879#0" expanded="true" />
+            <element signature="e#922#942#0" expanded="true" />
+            <element signature="e#988#1011#0" expanded="true" />
+            <element signature="e#1062#1090#0" expanded="true" />
+            <element signature="e#1450#1467#0" expanded="true" />
+            <element signature="e#1717#1734#0" expanded="true" />
+            <element signature="e#1779#1801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/rabbitmq.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/consumer/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" column="12" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="116" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/consumer/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" column="12" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="116" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/4.2.1/amqp-client-4.2.1-sources.jar!/com/rabbitmq/client/AMQP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1226">
+          <caret line="754" column="25" lean-forward="false" selection-start-line="754" selection-start-column="25" selection-end-line="754" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -712,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,9 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding>
-            <element signature="e#2138#2154#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,7 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="157" column="0" lean-forward="false" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,7 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="195" column="16" lean-forward="false" selection-start-line="195" selection-start-column="16" selection-end-line="195" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,7 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="759" column="16" lean-forward="false" selection-start-line="759" selection-start-column="16" selection-end-line="759" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -797,7 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,22 +965,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-rabbit-sync.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/rabbitmq.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="0">
@@ -832,19 +972,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbit/consumer/Consumer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/rabbitmq.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="32" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
+        <state relative-caret-position="1972">
           <caret line="116" column="12" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="116" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/consumer/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="95" lean-forward="false" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kevin/spring/rabbitmq/producer/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="95" lean-forward="false" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-rabbit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="34" column="11" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="34" selection-end-column="11" />
+          <folding>
+            <element signature="e#745#761#0" expanded="true" />
+            <element signature="e#800#816#0" expanded="true" />
+            <element signature="e#859#879#0" expanded="true" />
+            <element signature="e#922#942#0" expanded="true" />
+            <element signature="e#988#1011#0" expanded="true" />
+            <element signature="e#1062#1090#0" expanded="true" />
+            <element signature="e#1450#1467#0" expanded="true" />
+            <element signature="e#1717#1734#0" expanded="true" />
+            <element signature="e#1779#1801#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

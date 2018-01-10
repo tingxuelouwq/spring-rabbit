@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:property-placeholder location="classpath:rabbitmq.properties"/>
+
+    <!-- 配置ConnectionFactory -->
+    <bean id="cachingConnectionFactory" class="org.springframework.amqp.rabbit.connection.CachingConnectionFactory">
+        <property name="host" value="${rabbit.host}"/>
+        <property name="port" value="${rabbit.port}"/>
+        <property name="username" value="${rabbit.username}"/>
+        <property name="password" value="${rabbit.password}"/>
+        <property name="virtualHost" value="${rabbit.virtualHost}"/>
+        <property name="channelCacheSize" value="${rabbit.channelCacheSize}"/>
+    </bean>
+
+    <bean id="msgHandler" class="com.kevin.spring.rabbitmq.receiver.ReceiveMsgHandler"/>
+
+    <!-- 配置消息监听器 -->
+    <bean id="messageListenerAdapter" class="org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter">
+        <property name="delegate" ref="msgHandler"/>
+        <property name="defaultListenerMethod" value="handleMessage"/>
+    </bean>
+
+    <bean id="listenerContainer" class="org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer">
+        <property name="connectionFactory" ref="cachingConnectionFactory"/>
+        <property name="messageListener" ref="messageListenerAdapter"/>
+        <property name="queueNames" value="${rabbit.queue}"/>
+    </bean>
+</beans>
